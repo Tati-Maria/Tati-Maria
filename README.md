@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a front-end developer with a passion for creating intuitive<br>and visually appealing websites.<br>I have a strong foundation in HTML, CSS and Javascript and I'm always<br>looking to improve my skills and stay up to date with the latest web development<br>technologies. Here you will find some of my personal past projects and hopefully<br>soon my contribuitions to open-sources.<br><br>I am currently learning react. I enjoy staying active and learn about new things.<br><br>When I'm not coding or studying, I like to play games, watch movies, spend time with friends/<br>family etc.<br>
+I am a front-end developer with a passion for technology<br>and design.<br>I have a strong foundation in HTML, CSS and Javascript and I'm always<br>looking to improve my skills and stay up to date with the latest web development<br>technologies. Here you will find some of my personal past projects and hopefully<br>soon my contribuitions to open-sources.<br><br>I am currently learning react. I enjoy staying active and learn about new things.<br><br>When I'm not coding or studying, I like to play games, watch movies, spend time with friends/<br>family etc.<br>
 
 
 ## 🌐 Socials:
